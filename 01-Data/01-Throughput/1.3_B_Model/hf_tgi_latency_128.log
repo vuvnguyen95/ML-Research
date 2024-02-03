@@ -1,0 +1,1 @@
+backend HfTextGenerationInference dur_s 207.07 tokens_per_s 2557.84 qps 4.83 successful_responses 1000 prompt_token_count 512000 response_token_count 17658, median_token_latency=1.97177358250759, median_e2e_latency=105.13581204414368

@@ -1,0 +1,1 @@
+backend GenerationBackend.vLLM dur_s 79.91 tokens_per_s 8028.74 qps 12.51 successful_responses 1000 prompt_token_count 512000 response_token_count 129570, median_token_latency=0.3132745809853077, median_e2e_latency=37.41248631477356
